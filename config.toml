@@ -1,0 +1,5 @@
+baseURL = "https://bingobongo.wetator.org/"
+languageCode = "en-us"
+title = "BingoBongo Testing"
+
+theme = "bingobongo"
