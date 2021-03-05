@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "BingoBongo Testing"
 
 theme = "bingobongo"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
