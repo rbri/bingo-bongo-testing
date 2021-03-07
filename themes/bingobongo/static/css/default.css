@@ -17,7 +17,7 @@ body {
   min-width:600px;  /* Minimum width of layout - remove line if not required */
                     /* The min-width property does not work in old versions of Internet Explorer */
   font-family: 'Droid Sans', arial, helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 22px;
   font-weight: normal;
   line-height: 1.28em;
   text-align: left;
