@@ -14,8 +14,6 @@ html {
 body {
   border:0; /* This removes the border around the viewport in old versions of IE */
   width:100%;
-  min-width:600px;  /* Minimum width of layout - remove line if not required */
-                    /* The min-width property does not work in old versions of Internet Explorer */
   font-family: 'Droid Sans', arial, helvetica, sans-serif;
   font-size: 20px;
   font-weight: normal;
