@@ -9,6 +9,7 @@ font size see: http://www.1ngo.de/web/em.html
   padding-left: 1em;
   padding-right: 1em;
   padding-top: 0.1em;
+  margin-left: 1em;
 }
 
 #content h1 {
@@ -25,14 +26,14 @@ font size see: http://www.1ngo.de/web/em.html
   color: #00769c;
   font-size: 1.38em;
   font-weight: normal;
-  padding: 0.7em 0 0.48em;
+  padding: 0.9em 0 0.48em;
 }
 
 #content h3 {
   color: #00769c;
   font-size: 1.12em;
   font-weight: normal;
-  padding: 0.7em 0 0.48em;
+  padding: 0.9em 0 0.48em;
 }
 
 #content h4 {
@@ -47,11 +48,11 @@ font size see: http://www.1ngo.de/web/em.html
   color: #00769c;
   font-size: 0.88em;
   font-weight: normal;
-  padding: 0.8em 0 0.1em 0;
+  padding: 0.7em 0 0.1em 0;
 }
 
 #content p, #content ul, #content ol {
-  font-size: 0.88em;
+  font-size: 0.93em;
 }
 
 #content p {
@@ -68,4 +69,22 @@ font size see: http://www.1ngo.de/web/em.html
   margin-top: 0;
   padding-left: 25px;
   padding-top: 1px;
+}
+
+#content ul li, #content ol li {
+  margin-left: 12px;
+  padding-left: 2px;
+  padding-top: 2px;
+}
+
+.highlight-blue {
+  color: #00769c
+}
+
+.highlight-orange {
+  color: #e75013
+}
+
+.highlight-green {
+  color: #acc952
 }
