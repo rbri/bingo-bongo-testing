@@ -13,7 +13,7 @@ font size see: http://www.1ngo.de/web/em.html
 }
 
 #content h1 {
-  color: #00769c;
+  /* color: #00769c; */
   /* font-size: 1.75em; */
   font-size:2.01em;
   font-weight: normal;
@@ -23,14 +23,14 @@ font size see: http://www.1ngo.de/web/em.html
 }
 
 #content h2 {
-  color: #00769c;
+  /* color: #00769c; */
   font-size: 1.38em;
   font-weight: normal;
   padding: 0.9em 0 0.48em;
 }
 
 #content h3 {
-  color: #00769c;
+  /* color: #00769c; */
   font-size: 1.12em;
   font-weight: normal;
   padding: 0.9em 0 0.48em;
