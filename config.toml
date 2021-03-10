@@ -4,4 +4,4 @@ title = "BingoBongo Testing"
 
 theme = "bingobongo"
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["sitemap", "taxonomy", "taxonomyTerm"]
